@@ -3,7 +3,7 @@ I'm a current second year student studying (BSc)Software Engineering at Nottingh
 
 - I’m focused on University work at the moment
 - I’m mainly interested in mobile development (in particual iOS) and IoT 
-- You can reach me via email @ mcgouran.dev6@gmail.com
+- You can reach me via email @ mcgouran.dev@gmail.com
 
 ### My GitHub stats:
 ![Ryans's github stats](https://github-readme-stats.vercel.app/api?username=rmcgouran&show_icons=true&theme=dark&count_private=true)
