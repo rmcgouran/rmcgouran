@@ -6,6 +6,4 @@ I'm a current second year student studying (BSc)Software Engineering at Nottingh
 - You can reach me via email @ mcgouran.dev@gmail.com
 
 ### My GitHub stats:
-![Ryans's github stats](https://github-readme-stats.vercel.app/api?username=rmcgouran&show_icons=true&theme=dark&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rmcgouran&layout=compact&theme=dark)
+![Ryans's github stats](https://github-readme-stats.vercel.app/api?username=rmcgouran&show_icons=true&theme=dark&count_private=true)![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rmcgouran&layout=compact&theme=dark)
