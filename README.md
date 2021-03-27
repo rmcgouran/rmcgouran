@@ -1,5 +1,5 @@
 ### Hi there
-I'm a current second year student studying (BSc)Software Engineering at Nottingham Trent University.
+I'm a current second year student studying BSc(Hons) Software Engineering at Nottingham Trent University.
 
 - I’m focused on University work at the moment
 - I’m mainly interested in mobile development (in particual iOS) and IoT 
